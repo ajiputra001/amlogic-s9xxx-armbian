@@ -251,7 +251,7 @@ on:
         type: choice
         options:
           - ophub
-          - angel
+          - Ajiputra
 
 env:
   TZ: Etc/UTC
